@@ -1,3 +1,7 @@
 {
-  "playdate.output": "bin/Output.pdx"
+  "playdate.output": "bin/Output.pdx",
+  "Lua.diagnostics.globals": [
+    "import",
+    "playdate"
+  ]
 }

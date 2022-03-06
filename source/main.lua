@@ -1,8 +1,9 @@
-import "CoreLibs/graphics"
+import "level1"
 
-local gfx <const> = playdate.graphics
+function playdate.cranked(change, acceleratedChange)
+    cranked_level1(change, acceleratedChange)
+end
 
-function playdate.update() 
-    gfx.clear()
-    gfx.drawText("Hello World", 20, 20)
+function playdate.update()
+    update_level1()
 end
