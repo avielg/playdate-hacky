@@ -1,21 +1,3 @@
-# Playdate VS Code Template (Mac)
-Build and run projects in the Playdate simulator with a key shortcut.
+# Hacky For Playdate
 
-## Requirements
-- [VS Code](https://code.visualstudio.com)
-- [Playdate SDK](https://play.date/dev/)
-
-## Get Started
-**This is a template repo.**  
-You can generate your own separate repositories from this template with the same directory structure, branches, and files. Click "Use this template" to create your own repo.
-
-1. Clone or download the repo.
-2. In VS Code, choose Run > Run Without Debugging to launch the project in the Playdate simulator.
-3. Assign a keyboard shortcut to the Run Without Debugging option to build and run with a keypress.
-
-## Output
-Build files get output to `bin/Output.pdx`.  
-Change this by editing the `playdate.output` property in `.vscode/settings.json`.
-
-## Windows
-This template is set up for Mac. You may be able to get it working on on Windows by editing `.vscode/run.js` to point to the proper simulator location. 
+<img width="300" alt="image" src="https://user-images.githubusercontent.com/5012557/156948216-eddcbb93-54a0-438e-b9bd-8b58b8689700.png"><img width="300" alt="image" src="https://user-images.githubusercontent.com/5012557/156948219-ff355a28-47ab-4689-908d-e39e861ad021.png"><img width="300" alt="image" src="https://user-images.githubusercontent.com/5012557/156948222-27fbf7c8-8d99-407d-bcf6-b8271c46495a.png">
